@@ -4,7 +4,7 @@ made with python using libraries pygame,turtle,tkinter<br /> by
 - Amal Eltelbany
 - Rehab Mohmmed
 - Tassnem Abdelrahman
-- Shorouk Sabry
+- Shrouk Sabry
 - Aya ELqadry
 
 
@@ -19,5 +19,5 @@ made with python using libraries pygame,turtle,tkinter<br /> by
 
 
 
-# You can download game and enjoy playing it from this link 😊❤️❤️
+# You can download game and enjoy playing it from this link ❤️
 https://drive.google.com/file/d/1HWN7d0UiAxHhUYJ5lH7TLTgCYTyp1rxx/view?usp=sharing
